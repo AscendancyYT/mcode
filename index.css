@@ -203,3 +203,24 @@
 .w-10{
   width: 100%;
 }
+
+
+
+.dis-f{
+  display: flex;
+}
+.dis-b{
+  display: block;
+}
+.dis-g{
+  display: grid;
+}
+.dis-c{
+  display: contents;
+}
+.dis-fb{
+  display: flexbox;
+}
+.dis-i{
+  display: inline;
+}
