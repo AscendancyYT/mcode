@@ -224,3 +224,15 @@
 .dis-i{
   display: inline;
 }
+.dis-n{
+  display: none;
+}
+
+
+
+.ai-c{
+  align-items: center;
+}
+.ai-s{
+  align-items: start;
+}
