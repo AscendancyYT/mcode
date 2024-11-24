@@ -272,3 +272,21 @@
 .jc-s{
   justify-content: start;
 }
+
+
+
+.bg-black{
+  background-color: black;
+}
+.bg-white{
+  background-color: white;
+}
+.bg-gray{
+  background-color: gray;
+}
+.bg-purple{
+  background-color: purple;
+}
+.bg-blue{
+  background-color: blue;
+}
