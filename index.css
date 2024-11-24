@@ -236,3 +236,18 @@
 .ai-s{
   align-items: start;
 }
+.ai-e{
+  align-items: end;
+}
+.ai-fe{
+  align-items: flex-end;
+}
+.ai-fs{
+  align-items: flex-start;
+}
+.ai-b{
+  align-items: baseline;
+}
+.ai-n{
+  align-items: normal;
+}
