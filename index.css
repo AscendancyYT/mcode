@@ -251,3 +251,24 @@
 .ai-n{
   align-items: normal;
 }
+
+
+
+.jc-c{
+  justify-content: center;
+}
+.jc-b{
+  justify-content: baseline;
+}
+.jc-e{
+  justify-content: end;
+}
+.jc-l{
+  justify-content: left;
+}
+.jc-r{
+  justify-content: right;
+}
+.jc-s{
+  justify-content: start;
+}
