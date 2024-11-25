@@ -568,3 +568,23 @@
   color: rgba(27, 17, 40, 1);
   border: 1px solid rgba(27, 17, 40, 1);
 }
+
+
+
+.inp-def{
+  padding: 20px;
+  border-radius: 5px;
+  border: 0.3px solid #000;
+  transition: border .2s ease-in-out;
+  color: darkblue;
+}
+.inp-def:focus{
+  border: 2px solid darkblue;
+}
+.inp-dark{
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  background-color: #000;
+}
