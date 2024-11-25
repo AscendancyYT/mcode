@@ -587,4 +587,28 @@
   border: none;
   color: #fff;
   background-color: #000;
+  transition: all .2s linear;
+}
+.inp-dark:focus{
+  background-color: transparent;
+  color: #000;
+  border: 1px solid #000;
+}
+
+
+
+.gap-1{
+  gap: 8px;
+}
+.gap-2{
+  gap: 16px;
+}
+.gap-3{
+  gap: 24px;
+}
+.gap-4{
+  gap: 32px;
+}
+.gap-5{
+  gap: 40px;
 }
