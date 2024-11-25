@@ -612,3 +612,16 @@
 .gap-5{
   gap: 40px;
 }
+
+.p-r{
+  position: relative;
+}
+.p-a{
+  position: absolute;
+}
+.p-f{
+  position: fixed;
+}
+.p-s{
+  position: static;
+}
